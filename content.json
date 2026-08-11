@@ -1,0 +1,131 @@
+{
+  "cover": {
+    "eyebrow": "Creative Fashion Merchandiser · Gurugram, India",
+    "name1": "Naziya",
+    "name2": "Khanam",
+    "thesis": "I turn cultural signals into<br><em>commercial fashion stories.</em>",
+    "brandsLabel": "Range of work",
+    "brands": "GAP · Banana Republic · Lee Cooper · Poetry · Rare Earth · Old Khaki",
+    "reelTag": "Field cut · SS26"
+  },
+  "ticker": "Trend is the signal · Product is the translation · Story is the reason · Customer is the point · Not just what sells — why it sells · ",
+  "worlds": {
+    "trend": {
+      "eyebrow": "<em>World 01</em> Trend",
+      "title": "It starts with<br>a <em>signal.</em>",
+      "text": "Streets, stores, screens — culture announces itself long before the spreadsheets do. I read shop floors the way analysts read reports.",
+      "chips": [
+        "“The wall states its thesis: product as identity.”",
+        "“One style per lightbox — density is a pricing signal.”",
+        "“IP tees priced as fandom. The license is the margin story.”"
+      ]
+    },
+    "product": {
+      "eyebrow": "<em>World 02</em> Product",
+      "title": "Then it becomes<br><em>product.</em>",
+      "text": "The unglamorous middle of fashion is where I live: from trend board to bulk production without losing the idea on the way.",
+      "practice": [
+        "Product development",
+        "Sourcing & vendor management",
+        "Sampling → bulk execution",
+        "Trend & market analysis",
+        "Target costing & purchase orders",
+        "QA & production planning"
+      ],
+      "brands": "Run across <strong>GAP · Banana Republic · Lee Cooper · Poetry · Rare Earth · Old Khaki</strong> — apparel, accessories, bags."
+    },
+    "story": {
+      "eyebrow": "<em>World 03</em> Story",
+      "title": "Then it needs<br>a <em>story.</em>",
+      "text": "A rack without a story is inventory. The lab is where I take a decision further than the brief asked.",
+      "labCode": "NK/LAB-01",
+      "labTitle": "The 9pm blazer",
+      "labText": "Metro workwear assumes the day ends at the office. It doesn't. One crease-tolerant blazer that reads sharp at 10am and relaxed at 10pm — plum · bone · ink, good-better-best ladder, camisole within arm's reach.",
+      "chain": "shirt <i>→</i> styling story <i>→</i> attach product <i>→</i> persona <i>→</i> placement <i>→</i> content hook",
+      "dare": "Give me 30 days and an underperforming category: diagnose, decode, rebuild, retell, measure."
+    },
+    "customer": {
+      "eyebrow": "<em>World 04</em> Customer",
+      "title": "It ends with<br>a <em>person.</em>",
+      "text": "Everything upstream is judged in one moment — she says yes, or she doesn't. Merchandising is the craft of earning that yes, repeatably.",
+      "cta1": "See the case files",
+      "cta2": "Start a conversation"
+    }
+  },
+  "work": {
+    "kicker": "Case files",
+    "title": "The work",
+    "facts": [
+      { "n": "4+", "label": "years in merchandising" },
+      { "n": "6", "label": "retail brands" },
+      { "n": "0→1", "label": "new brand launched" },
+      { "n": "3", "label": "categories — apparel · accessories · bags" }
+    ],
+    "featured": {
+      "code": "NK-001 · Indo Spanish Marketing Services · 2024 — present",
+      "title": "Launching a brand<br>that didn't exist",
+      "tags": ["Car Fashion Brand", "0 → 1 launch", "Merchandiser"],
+      "steps": [
+        { "h": "The brief", "p": "Take an entirely new concept — a car fashion brand with no category precedent — from idea to market. No playbook existed; entry had to land." },
+        { "h": "What I ran", "p": "Product development and trend analysis, sourcing and vendor management, merchandising and buying, and the production workflows connecting them." },
+        { "h": "The discipline", "p": "A first-of-its-kind range means building the process while running it — every approval, costing and timeline defined from zero." },
+        { "h": "The result", "p": "A successful market entry for a concept the market hadn't seen. <span class=\"slot\">[ADD VERIFIED RESULT — range size, doors, sell-through]</span>" }
+      ],
+      "nextH": "What I'd do next",
+      "nextP": "Build the repeat-purchase architecture: attach accessories to the hero range, set a drop cadence, and turn first buyers into a community."
+    },
+    "cases": [
+      {
+        "code": "NK-002 · Indo Spanish · 2023 — 2024",
+        "title": "Three brands,<br>one production engine",
+        "tags": ["Poetry", "Rare Earth", "Old Khaki"],
+        "intro": "For Cape Union Mart's Poetry, Rare Earth and Old Khaki — apparel, accessories and bags across complex, overlapping production cycles.",
+        "bullets": [
+          "Owned development, sourcing and order execution from sampling to bulk",
+          "Negotiated vendors for cost-effective, high-quality manufacturing",
+          "Coordinated design, logistics and QA into one workflow",
+          "Ran trend analysis and market research feeding product planning"
+        ]
+      },
+      {
+        "code": "NK-003 · Chelsea Mills LLP · 2022 — 2023",
+        "title": "The Gap Inc.<br>discipline",
+        "tags": ["GAP", "Banana Republic", "Assistant Merchandiser"],
+        "intro": "Enterprise merchandising rigor, learned where mistakes cost whole seasons.",
+        "bullets": [
+          "Coordinated sampling for Gap Inc. and Banana Republic with trend compliance",
+          "Managed BOMs and approvals across the product lifecycle",
+          "Streamlined sample tracking and buyer updates on PLM Centric"
+        ]
+      }
+    ],
+    "motto": "The work is done.<br><em>The thinking isn't.</em>"
+  },
+  "about": {
+    "kicker": "About",
+    "title": "Designer's eye,<br>buyer's <em>nerve</em>",
+    "p1": "Naziya trained as a designer before she became a merchandiser — a B.Des in Fashion Design from MJRPU Jaipur (graduated A+), with an ATDC diploma sponsored by Gap Inc. along the way. It shows: she reads garments like a designer and cost sheets like a buyer.",
+    "p2": "Four years in, her range runs from Gap Inc. sampling rooms to launching a brand nobody had a template for. She's happiest on a shop floor, reading what the racks are saying — and the habit doesn't switch off.",
+    "quote": "“Every product has a customer.<br><em>Find the reason they care.”</em>",
+    "portraitCaption": "Naziya Khanam · she/her · Gurugram",
+    "hobbyA": "Off duty 01 — she paints.",
+    "hobbyB": "Off duty 02 — she climbs.",
+    "timeline": [
+      { "year": "2019–23", "role": "B.Des Fashion Design · MJRPU Jaipur — A+", "desc": "Runway shows, garment construction, trend-forecasting studies. ATDC diploma sponsored by Gap Inc. (2020–21)." },
+      { "year": "2022–23", "role": "Assistant Merchandiser · Chelsea Mills LLP, Gurgaon", "desc": "Gap Inc. & Banana Republic sampling, BOMs, PLM Centric. What it built: enterprise rigor." },
+      { "year": "2023–24", "role": "Merchandiser · Indo Spanish Marketing Services", "desc": "Sampling to bulk, vendor negotiation, QA coordination. What it built: end-to-end ownership." },
+      { "year": "2024–now", "role": "Merchandiser (full-time) · Indo Spanish Marketing Services", "desc": "Car Fashion Brand launch + Cape Union Mart brands. What it built: 0→1 nerve." }
+    ]
+  },
+  "contact": {
+    "title": "The next season is<br>already sending <em>signals.</em>",
+    "lede": "Let's read them together.",
+    "email": "naziyakhanam369@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/naziya-khanam/",
+    "resume": "",
+    "ps": "P.S. If you scrolled this far, you already know the thesis: she doesn't stop at the brief."
+  },
+  "recruiter": {
+    "line": "Creative fashion merchandiser · Gurugram, India · 4+ years.<br>GAP &amp; Banana Republic sampling → launching new brands. Product development, sourcing &amp; vendor management, sampling-to-bulk production, trend &amp; market analysis."
+  }
+}
