@@ -56,20 +56,48 @@
     "kicker": "Case files",
     "title": "The work",
     "facts": [
-      { "n": "4+", "label": "years in merchandising" },
-      { "n": "6", "label": "retail brands" },
-      { "n": "0→1", "label": "new brand launched" },
-      { "n": "3", "label": "categories — apparel · accessories · bags" }
+      {
+        "n": "5+",
+        "label": "years in merchandising"
+      },
+      {
+        "n": "6",
+        "label": "retail brands"
+      },
+      {
+        "n": "0→1",
+        "label": "new brand launched"
+      },
+      {
+        "n": "3",
+        "label": "categories — apparel · accessories · bags"
+      }
     ],
     "featured": {
       "code": "NK-001 · Indo Spanish Marketing Services · 2024 — present",
       "title": "Launching a brand<br>that didn't exist",
-      "tags": ["Car Fashion Brand", "0 → 1 launch", "Merchandiser"],
+      "tags": [
+        "Car Fashion Brand",
+        "0 → 1 launch",
+        "Merchandiser"
+      ],
       "steps": [
-        { "h": "The brief", "p": "Take an entirely new concept — a car fashion brand with no category precedent — from idea to market. No playbook existed; entry had to land." },
-        { "h": "What I ran", "p": "Product development and trend analysis, sourcing and vendor management, merchandising and buying, and the production workflows connecting them." },
-        { "h": "The discipline", "p": "A first-of-its-kind range means building the process while running it — every approval, costing and timeline defined from zero." },
-        { "h": "The result", "p": "A successful market entry for a concept the market hadn't seen. <span class=\"slot\">[ADD VERIFIED RESULT — range size, doors, sell-through]</span>" }
+        {
+          "h": "The brief",
+          "p": "Take an entirely new concept — a car fashion brand with no category precedent — from idea to market. No playbook existed; entry had to land."
+        },
+        {
+          "h": "What I ran",
+          "p": "Product development and trend analysis, sourcing and vendor management, merchandising and buying, and the production workflows connecting them."
+        },
+        {
+          "h": "The discipline",
+          "p": "A first-of-its-kind range means building the process while running it — every approval, costing and timeline defined from zero."
+        },
+        {
+          "h": "The result",
+          "p": "A successful market entry for a concept the market hadn't seen. <span class=\"slot\">[ADD VERIFIED RESULT — range size, doors, sell-through]</span>"
+        }
       ],
       "nextH": "What I'd do next",
       "nextP": "Build the repeat-purchase architecture: attach accessories to the hero range, set a drop cadence, and turn first buyers into a community."
@@ -78,7 +106,11 @@
       {
         "code": "NK-002 · Indo Spanish · 2023 — 2024",
         "title": "Three brands,<br>one production engine",
-        "tags": ["Poetry", "Rare Earth", "Old Khaki"],
+        "tags": [
+          "Poetry",
+          "Rare Earth",
+          "Old Khaki"
+        ],
         "intro": "For Cape Union Mart's Poetry, Rare Earth and Old Khaki — apparel, accessories and bags across complex, overlapping production cycles.",
         "bullets": [
           "Owned development, sourcing and order execution from sampling to bulk",
@@ -90,7 +122,11 @@
       {
         "code": "NK-003 · Chelsea Mills LLP · 2022 — 2023",
         "title": "The Gap Inc.<br>discipline",
-        "tags": ["GAP", "Banana Republic", "Assistant Merchandiser"],
+        "tags": [
+          "GAP",
+          "Banana Republic",
+          "Assistant Merchandiser"
+        ],
         "intro": "Enterprise merchandising rigor, learned where mistakes cost whole seasons.",
         "bullets": [
           "Coordinated sampling for Gap Inc. and Banana Republic with trend compliance",
@@ -111,10 +147,26 @@
     "hobbyA": "Off duty 01 — she paints.",
     "hobbyB": "Off duty 02 — she climbs.",
     "timeline": [
-      { "year": "2019–23", "role": "B.Des Fashion Design · MJRPU Jaipur — A+", "desc": "Runway shows, garment construction, trend-forecasting studies. ATDC diploma sponsored by Gap Inc. (2020–21)." },
-      { "year": "2022–23", "role": "Assistant Merchandiser · Chelsea Mills LLP, Gurgaon", "desc": "Gap Inc. & Banana Republic sampling, BOMs, PLM Centric. What it built: enterprise rigor." },
-      { "year": "2023–24", "role": "Merchandiser · Indo Spanish Marketing Services", "desc": "Sampling to bulk, vendor negotiation, QA coordination. What it built: end-to-end ownership." },
-      { "year": "2024–now", "role": "Merchandiser (full-time) · Indo Spanish Marketing Services", "desc": "Car Fashion Brand launch + Cape Union Mart brands. What it built: 0→1 nerve." }
+      {
+        "year": "2019–23",
+        "role": "B.Des Fashion Design · MJRPU Jaipur — A+",
+        "desc": "Runway shows, garment construction, trend-forecasting studies. ATDC diploma sponsored by Gap Inc. (2020–21)."
+      },
+      {
+        "year": "2022–23",
+        "role": "Assistant Merchandiser · Chelsea Mills LLP, Gurgaon",
+        "desc": "Gap Inc. & Banana Republic sampling, BOMs, PLM Centric. What it built: enterprise rigor."
+      },
+      {
+        "year": "2023–24",
+        "role": "Merchandiser · Indo Spanish Marketing Services",
+        "desc": "Sampling to bulk, vendor negotiation, QA coordination. What it built: end-to-end ownership."
+      },
+      {
+        "year": "2024–now",
+        "role": "Merchandiser (full-time) · Indo Spanish Marketing Services",
+        "desc": "Car Fashion Brand launch + Cape Union Mart brands. What it built: 0→1 nerve."
+      }
     ]
   },
   "contact": {
